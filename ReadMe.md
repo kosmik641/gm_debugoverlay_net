@@ -1,5 +1,6 @@
 # gm_debugoverlay_net
 [debugoverlay on Garry's Mod Wiki](https://wiki.facepunch.com/gmod/debugoverlay)
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3630587067)
 > The debugoverlay library is mainly useful for 3D debugging, it can be used to draw shapes on the screen for debug purposes.
 
 This addon add netowrking for `debugoverlay` functions of server.
